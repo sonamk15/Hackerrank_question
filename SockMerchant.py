@@ -1,4 +1,4 @@
-def sockMerchant(ar):
+def soctkMerchan(ar):
     ar.sort()
     # print ar
     new=[]
